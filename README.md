@@ -8,7 +8,7 @@ BCS Group Project 1
 Is there a relationship between sleep duration, quality of sleep, and physical activity with different physiological responses?
 What is the relationship between...
     (1)What is the relationship between sleep duration and physical activity? (Anna)
-    (2)
+    (2) Does the need for sleep increase with age? (Jared)
     (3)
     (4)
     
