@@ -11,7 +11,7 @@ What is the relationship between...
     (2) Does the need for sleep increase with age? (Jared)
     (3) On average are males or females getting better sleep? (lydia)
         How does gender correlate with occupation and average length of sleep?
-    (4)
+    (4) Which career field has the most lean employees and what's the average BMI for employees? (Gil)
     
 #### relationships to explore
 sleep duration - stress, BMI, blood pressure
