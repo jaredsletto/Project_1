@@ -8,7 +8,7 @@ BCS Group Project 1
 Is there a relationship between sleep duration, quality of sleep, and physical activity with different physiological responses?
 What is the relationship between...
     (1) What is the relationship between sleep duration and physical activity? (Anna)
-    (2) Does the need for good sleep increase with age? related to stress (Jared)
+    (2) Does the need for good sleep increase with age? (Jared)
     (3) On average are males or females getting better sleep? (lydia)
         How does gender correlate with occupation and average length of sleep?
     (4) Which career field has the most lean employees and what's the average BMI for employees? (Gil)
