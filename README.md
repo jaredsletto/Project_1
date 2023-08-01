@@ -6,23 +6,14 @@ BCS Group Project 1
 
 ## Research Questions
 Is there a relationship between sleep duration, quality of sleep, and physical activity with different physiological responses?
-What is the relationship between...
     (1) What is the relationship between sleep duration and physical activity? (Anna)
-    (2) Does the need for good sleep increase with age? related to stress (Jared)
+    (2) What impact does age have on stress and sleep? (Jared)
     (3) On average are males or females getting better sleep? (lydia)
         How does gender correlate with occupation and average length of sleep?
     (4) Which career field has the most lean employees and what's the average BMI for employees? (Gil)
-    
-#### relationships to explore
-sleep duration - stress, BMI, blood pressure
-quality of sleep - stress, BMI, blood pressure
-physical activity - stress, BMI, blood pressure
-sleep duration/quality - physical activity
-age - sleep quality
-occupation - sleep duration
-stress - BMI
-stress - blood pressure
 
-## Exploring the data
-mean, median, mode
-drop null values
+# Accomplishments
+In this project, we answered our research questions using Pandas, Numpy, MatPlotLib, and SciPy.
+We created charts and graphs to visualize the data given to us in a lifestyle survey dataset that was supplied through the website, Kaggle.
+The dataset can be seen in our 'resources' folder.
+We then organized our visualizations into a powerpoint and presented to our colleagues.
