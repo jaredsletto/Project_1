@@ -2,7 +2,7 @@
 BCS Group Project 1
 ## Overview
 The dataset "Sleep, Health, and Lifestyle" was analyzed to answer a number of questions on how physical activity, age, occupation, and stress affects sleep.
-##Purpose
+## Purpose
 Exploring the different relationship between occupation and sleep quality, age, stress levels, sleep quality, and sleep duration, physical activty and sleep duration, and BMI and occupation.
 ## Research Questions
 The research questions explored:
