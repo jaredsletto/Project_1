@@ -1,28 +1,16 @@
 # Project_1
 BCS Group Project 1
 ## Overview
-
+The dataset "Sleep, Health, and Lifestyle" was analyzed to answer a number of questions on how physical activity, age, occupation, and stress affects sleep.
 ## Purpose
-
+Explored the different relationships between occupation and sleep quality, age, stress levels, sleep quality, and sleep duration, physical activty and sleep duration, and BMI and occupation.
 ## Research Questions
-Is there a relationship between sleep duration, quality of sleep, and physical activity with different physiological responses?
-What is the relationship between...
-    (1) What is the relationship between sleep duration and physical activity? (Anna)
-    (2) Does the need for good sleep increase with age? related to stress (Jared)
-    (3) On average are males or females getting better sleep? (lydia)
-        How does gender correlate with occupation and average length of sleep?
-    (4) Which career field has the most lean employees and what's the average BMI for employees? (Gil)
-    
-#### relationships to explore
-sleep duration - stress, BMI, blood pressure
-quality of sleep - stress, BMI, blood pressure
-physical activity - stress, BMI, blood pressure
-sleep duration/quality - physical activity
-age - sleep quality
-occupation - sleep duration
-stress - BMI
-stress - blood pressure
+The research questions explored:
+    (1) What impact does age have on stress and sleep?
+    (2) Which gender gets better quality of sleep?
+    (3) Which occupation gets better quality of sleep?
+    (4) How does level of physical activity affect how long an individual sleeps for?
+    (4) Which occupation has the most lean employees and what's the average BMI for each occupation?
 
-## Exploring the data
-mean, median, mode
-drop null values
+## Conclusion
+It was determined that sleep is very important to all aspects to one's life. The data looked at individuals in their 20s, 30s, 40s, and 50s. While age was not a factor, if an individual had high stress levels, they received less sleep and received a lower quality of sleep. However, if an indivudal had low stress levels it showed an increase in longer sleep and a better quality of sleep. When considering an individual's gender, the datashowed that females received a better quality of sleep. It was not by much, but females received, on average, 8 hours of quality of sleep, while males received 7 hours. When determining which occupation receives a more restorative and restful sleep a limitation was identified. Performing a count to each occupation determined that an even number or fair comparison was not used in the study. For example, one Manager profession was analyzed and the profession showed to received an average quality of sleep. However, 71 doctors were analyzed and they received a below average quality of sleep. To determine which occupation receives better quality of sleep could not be appropiately answered due to the unfair count of each occupation. 
