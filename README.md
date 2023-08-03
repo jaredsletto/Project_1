@@ -1,5 +1,14 @@
 # Project_1
-BCS Group Project 1
+Data Analytics Bootcamp
+Group Project 1
+8/2/23
+
+## Collaborators
+Lydia Bartnick
+Anna Collawn
+Jared Sletto
+Gil Fernandez
+
 ## Overview
 The dataset "Sleep, Health, and Lifestyle" was analyzed to answer a number of questions on how physical activity, age, occupation, and stress affects sleep. This data came from Kaggle's website at: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset.
 ## Purpose
