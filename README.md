@@ -10,7 +10,7 @@ The research questions explored:
     (2) Which gender gets better quality of sleep?
     (3) Which occupation gets better quality of sleep?
     (4) How does level of physical activity affect how long an individual sleeps for?
-    (4) Which occupation has the most lean employees and what's the average BMI for each occupation?
+    (5) Which occupation has the most lean employees and what's the average BMI for each occupation?
 
 ## Conclusion
 Based on this sample, there is a positive correlation between sleep duration, sleep quality, and physical activity levels. Based on our linear regrations we see that more sleep correlates with more physical activity. 
