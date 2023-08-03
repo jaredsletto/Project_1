@@ -1,7 +1,7 @@
 # Project_1
 BCS Group Project 1
 ## Overview
-The dataset "Sleep, Health, and Lifestyle" was analyzed to answer a number of questions on how physical activity, age, occupation, and stress affects sleep.
+The dataset "Sleep, Health, and Lifestyle" was analyzed to answer a number of questions on how physical activity, age, occupation, and stress affects sleep. This data came from Kaggle's website at: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset.
 ## Purpose
 Explored the different relationships between occupation and sleep quality, age, stress levels, sleep quality, and sleep duration, physical activty and sleep duration, and BMI and occupation.
 ## Research Questions
